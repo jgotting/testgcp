@@ -4,8 +4,7 @@
 # ca-certificates=2019.5.15=1
 # certifi=2019.6.16=py37_1
 # click=7.0=py37_0
-flask=1.1.1
-# =py_0
+flask=1.1.1=py_0
 # itsdangerous=1.1.0=py37_0
 # jinja2=2.10.1=py37_0
 # markupsafe=1.1.1=py37he774522_0
